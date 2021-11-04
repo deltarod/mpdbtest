@@ -1,0 +1,6 @@
+fastapi==0.68.2
+starlette
+pandas==1.2.4
+simpleBDB==1.1.30
+uvicorn
+
